@@ -4,4 +4,4 @@ require (
         bitbucket/karysto/grandchild_repo v0.0.0
 )
 
-replace bitbucketbitbucket/karysto/grandchild_repo => ../grandchild_repo
+replace bitbucket/karysto/grandchild_repo => ../grandchild_repo
